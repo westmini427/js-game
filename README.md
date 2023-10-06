@@ -1,4 +1,4 @@
-### 🚀 Javascript Canvas로 슈팅게임 만들기 🚀
+### 🚀 Javascript canvas로 슈팅게임 만들기 🚀
 
 너무 재밌어보여서,,, 영상 보고 따라해봄 호홋,,, 유튜뷰 최고 
 
